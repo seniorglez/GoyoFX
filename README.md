@@ -121,8 +121,6 @@ The client plugin will download the Android SDK and install the required package
 
 ### Build using Maven
 
-#### HelloWorld, HelloFX, HelloFXML and HelloGluon samples
-
 * Set the target to `android` (for android devices) in `pom.xml`:
 
 ```
