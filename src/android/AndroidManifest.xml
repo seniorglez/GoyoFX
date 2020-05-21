@@ -3,6 +3,7 @@
     <supports-screens a:xlargeScreens="true"/>
     <uses-sdk a:minSdkVersion="21" a:targetSdkVersion="28"/>
     <uses-permission a:name="android.permission.INTERNET"/>
+    <uses-permission a:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission a:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission a:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <application a:label='goyofx' a:icon="@mipmap/ic_launcher">
